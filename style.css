@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+#read-more {
+    font-size: large;
+    font-style: italic;
+    font-weight: 900;
+    background-color: yellow;
+    text-decoration: cyan;
+    text-transform: uppercase;
+}
+
+#read-more:hover {
+    background-color: red;
+    color: chartreuse;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#title {
+    background-color: rgb(203, 240, 199);
+    color: hotpink;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tribute-info {
+    justify-content: center;
+    border: 1px solid black;
+    padding: 3%;
+    background: rgb(206, 202, 202);
+}
